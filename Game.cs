@@ -6,10 +6,10 @@
 	    private Dictionary<string, int> quests = new Dictionary<string, int>()
 	    {
 	        { "quest1", 50 },	        
-          { "quest2", 50 },	        
-          { "quest3", 50 },	        
-          { "quest4", 50 },	        
-          { "quest5", 100 }
+	        { "quest2", 50 },	        
+	        { "quest3", 50 },	        
+	        { "quest4", 50 },	        
+	        { "quest5", 100 }
 	    };
 
 	    private int points = 0;
